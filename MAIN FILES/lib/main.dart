@@ -105,7 +105,7 @@ class _MainMenuState extends State<MainMenu> {
                   ),
                   SizedBox(height: 70),
                   Container(
-                    width: 100,
+                    width: 150,
                     height: 50,
                     child: ElevatedButton(
                       style: ElevatedButton.styleFrom(
