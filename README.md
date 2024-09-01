@@ -1,5 +1,9 @@
 # Toss n' Toe App
 
-- A simple app with 2 games, Coin Flip and Tic-Tac-Toe.
-
-if you want to check the code, put the MAIN FILES in any new flutter project in Android Studio or just look for the main.dart in lib folder, put the assets in your directory and in the pubspec.yaml and they should be working as intended.
+- Toss n’ Toe is a simple app with 2 games, In Tictactoe you are against an ai by playing
+a game of tictactoe, you can see the results of your matches at the game screen
+below the board, and can exit back to the main menu. At the coin flip game, you
+can pick a choice between heads or tails, and depending on the randomization code
+in the app, it will compare its result with your choice and tell you that you win when
+your choices match with the result and you lose when it isn't. After you are done
+playing you can exit the app.
